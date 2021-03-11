@@ -34,10 +34,7 @@ sections:
         align: left
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Voice Spam Filtering
         content: |
           Leverage Spam APIs to automatically block malicious callers.

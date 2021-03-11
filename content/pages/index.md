@@ -28,10 +28,9 @@ sections:
     title: A new approach to call blocking.
     features:
       - title: Unified Policies
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Protect IOS CUBE, CUCM, even multi-cluster SMEs with the same policy
+          enforcement.
         align: left
         image_alt: Feature 1 placeholder image
         image_position: right

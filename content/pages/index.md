@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: A better way to block calls with Cisco UC.
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Call Telemetry is the first Cisco UC real-time policy engine to block,
+      whitelist, alert, and more in real-time.
     actions:
       - label: Learn More
         url: /features

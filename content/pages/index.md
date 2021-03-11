@@ -42,7 +42,6 @@ sections:
         content: |
           Leverage Spam APIs to automatically block malicious callers.
         align: left
-        image: images/feature.svg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
